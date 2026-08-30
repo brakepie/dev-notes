@@ -12,3 +12,4 @@ All notable changes to this project are documented here.
 - **2026-08-29** — docs: clarify install instructions
 - **2026-08-30** — chore: update changelog
 - **2026-08-30** — docs: clarify install instructions
+- **2026-08-30** — chore: update changelog
