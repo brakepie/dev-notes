@@ -18,3 +18,4 @@ All notable changes to this project are documented here.
 - **2026-08-30** — chore: update changelog
 - **2026-08-30** — refactor: extract shared helper
 - **2026-08-30** — refactor: extract shared helper
+- **2026-08-30** — fix: handle null config value
